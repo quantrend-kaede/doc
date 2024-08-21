@@ -1,9 +1,6 @@
 # Slurm Control node
 
 安裝需要的套件
-
- - List item
-
 > sudo apt install munge slurmd slurmctld slurmdbd mariadb-server
 
 設定 MariaDB
